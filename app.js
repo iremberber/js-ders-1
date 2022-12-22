@@ -21,3 +21,8 @@ console.error("hata olustu");
 
 console.warn ("hata olabilir");
 
+/* 
+   BETTER COMMENT
+   ? bla bla
+   ! daha önemli bla
+*/
